@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+Lib/
+Scripts/
+share/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
